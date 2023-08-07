@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muhammad Wali Ahmad",
-  title: "Web Designer & Cyber Security Expert",
+  title: "Cyber Security Expert and Web Developer",
   email: "waliaslam2002@.com",
   gitHub: "https://github.com/mwaliahmad",
   instagram: "https://www.instagram.com/waliahmad2002",
@@ -35,8 +35,8 @@ const siteProps = {
   youTube: "https://www.youtube.com/channel/UCzaCeZLHNfqW9cabsuzqCvA",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#0A192F";
+const secondaryColor = "#64FFDA";
 
 const App = () => {
   return (
